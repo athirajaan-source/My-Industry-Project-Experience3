@@ -1,4 +1,4 @@
-Executive Revenue Intelligence Dashboard (Tata Group-Power BI)
+Executive Revenue Intelligence Dashboard (Power BI)
 
 
 Project Overview
