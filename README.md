@@ -93,6 +93,9 @@ The primary goal is to uncover hidden patterns and key performance indicators (K
 - **Analytics:** KPI development, cohort metrics
 - **Business Strategy:** Data Storytelling, Executive communications, Actionable insights
 
+
+*Built to empower business leaders with unparalleled, data-driven clarity.*
+
 ### License
 
 This project is released under the MIT License.
@@ -101,7 +104,7 @@ This project is released under the MIT License.
 
 Athilakshmi Alagarsamy | Revenue Forecasting*
 ---
-*Built to empower business leaders with unparalleled, data-driven clarity.*
+
 
 
 ```
