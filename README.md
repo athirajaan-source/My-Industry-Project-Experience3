@@ -61,6 +61,8 @@ The primary goal is to uncover hidden patterns and key performance indicators (K
 - **Actionable Advice:** Create VIP retention programs for top-volume buyers while testing strategies to increase purchase frequency among smaller-order segments.
 
 ---
+![Model Output](<img width="1315" height="733" alt="Screenshot_RevenueMetrics_KPIs_DataInsights" src="https://github.com/user-attachments/assets/e03a3d9a-277f-41e7-b2ee-5633aed0a470" />
+)
 
 ## 💡 Strategic Recommendations
 
